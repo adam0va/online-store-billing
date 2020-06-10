@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = cnfg.secret_key
+SECRET_KEY = '%dqomi4l3%@_bp+1x=nusvzagunyhiojysd2=sbkg330+*8$7_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'billing.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': cnfg.name,
-        'USER': cnfg.user,
-        'PASSWORD': cnfg.password,
+        'NAME': 'billing_db',
+        'USER': 'postgres',
+        'PASSWORD': "password",
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
