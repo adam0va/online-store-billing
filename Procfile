@@ -1,1 +1,1 @@
-web: gunicorn billing.wsgi --log-file -
+web: python3 manage.py migrate; gunicorn billing.wsgi --log-file -
