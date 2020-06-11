@@ -26,7 +26,7 @@ SECRET_KEY = '%dqomi4l3%@_bp+1x=nusvzagunyhiojysd2=sbkg330+*8$7_'
 DEBUG = True
 
 ALLOWED_HOSTS = ['0.0.0.0',
-                 '127.0.0.1']
+                 '127.0.0.1', 'rsoi-online-store-billing.herokuapp.com']
 
 
 # Application definition
