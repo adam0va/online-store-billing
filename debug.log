@@ -71,3 +71,10 @@ Not Found: /favicon.ico
 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
 "GET /admin/ HTTP/1.1" 200 3050
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/requesters/authrequester.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/requesters/authrequester.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
