@@ -16,11 +16,12 @@ class BillingList(ListCreateAPIView):
 class BillingDetail(APIView):
     def get(self, request, uuid):
         try:
-            reader = Billing.objects.get(pk=uuid)
+            billing = Billing.objects.get(pk=uuid)
         except Billing.DoesNotExist:
             return Response(status=status.HTTP_404_NOT_FOUND)
 
-        serializer = BillingSerializer(reader)
+        serializer = BillingSerializer(billing)
+
         return Response(serializer.data, status=status.HTTP_200_OK)
 
     def patch(self, request, uuid):

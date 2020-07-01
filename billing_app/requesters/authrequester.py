@@ -1,5 +1,8 @@
 from billing_app.requesters.requester import Requester
 
+# просматривать информацию обо всех биллингах, удалять может только админ
+# просматривать информацию о конкретном биллингах может хозян заказа и админ
+# добавлять биллинг может только приложение
 
 class AuthRequester(Requester):
     AUTH_HOST = Requester.HOST + ':8004/'

@@ -78,3 +78,93 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 /Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+Watching for file changes with StatReloader
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+Watching for file changes with StatReloader
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+Not Found: /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/
+"GET /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/ HTTP/1.1" 404 0
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
