@@ -34,7 +34,7 @@ class BillingDetail(APIView):
         except Billing.DoesNotExist:
             return Response(status=status.HTTP_404_NOT_FOUND)
         serializer = BillingSerializer(instance=billing, data=request.data)
-        print(serializer.data)
+        #print(serializer.data)
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_202_ACCEPTED)
