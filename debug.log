@@ -263,3 +263,4 @@ Not Found: /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/
 "GET /f842e75d-5211-4647-88a2-44b940cd18d6/ HTTP/1.1" 200 106
 "GET /e2de989f-f238-43d2-9b0f-1bcca845ef8a/ HTTP/1.1" 200 106
 "POST / HTTP/1.1" 201 106
+Watching for file changes with StatReloader
