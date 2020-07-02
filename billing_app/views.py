@@ -4,9 +4,11 @@ from billing_app.models import Billing
 from billing_app.serializers import BillingSerializer
 from rest_framework.generics import ListCreateAPIView
 from billing_app.requesters.requester import Requester
+from billing_app.permissions import IsAuthenticated
 
 
 class BillingList(ListCreateAPIView):
+    permission_classes = (IsAuthenticated, )
     serializer_class = BillingSerializer
 
     def get_queryset(self):
@@ -14,6 +16,8 @@ class BillingList(ListCreateAPIView):
 
 
 class BillingDetail(APIView):
+    permission_classes = (IsAuthenticated,)
+
     def get(self, request, uuid):
         try:
             billing = Billing.objects.get(pk=uuid)
@@ -26,10 +30,11 @@ class BillingDetail(APIView):
 
     def patch(self, request, uuid):
         try:
-            reader = Billing.objects.get(pk=uuid)
+            billing = Billing.objects.get(pk=uuid)
         except Billing.DoesNotExist:
             return Response(status=status.HTTP_404_NOT_FOUND)
-        serializer = BillingSerializer(instance=reader, data=request.data)
+        serializer = BillingSerializer(instance=billing, data=request.data)
+        print(serializer.data)
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_202_ACCEPTED)
@@ -38,9 +43,9 @@ class BillingDetail(APIView):
 
     def delete(self, request, uuid):
         try:
-            reader = Billing.objects.get(uuid=uuid)
+            billing = Billing.objects.get(uuid=uuid)
         except Billing.DoesNotExist:
             return Response(status=status.HTTP_404_NOT_FOUND)
-        reader.delete()
+        billing.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
 

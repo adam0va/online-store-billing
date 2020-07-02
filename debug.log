@@ -168,3 +168,64 @@ Not Found: /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/
 "GET /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/ HTTP/1.1" 404 0
 /Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /9010c3e8-77fa-4bab-a327-4960023c3bf4/ HTTP/1.1" 200 106
+"GET /6c5bbb57-8d6b-4ad0-95de-635ce80797d0/ HTTP/1.1" 200 106
+"GET /7e014e9a-b461-4e97-a6dc-69ee1b2991b9/ HTTP/1.1" 200 106
+"GET /be2cb8ca-93c5-40c1-8ba2-f4df3345b928/ HTTP/1.1" 200 106
+"GET /0507e9a0-860d-4e60-90cb-c3649c0bdf05/ HTTP/1.1" 200 106
+"GET /25be9728-2e84-474f-8201-903c130fa2b5/ HTTP/1.1" 200 106
+"GET /bdcacdd4-20e4-403f-8936-43451323b8f1/ HTTP/1.1" 200 106
+"GET /6635b287-acbc-4741-b017-77e83f7a49c7/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /9010c3e8-77fa-4bab-a327-4960023c3bf4/ HTTP/1.1" 200 106
+"GET /6c5bbb57-8d6b-4ad0-95de-635ce80797d0/ HTTP/1.1" 200 106
+"GET /7e014e9a-b461-4e97-a6dc-69ee1b2991b9/ HTTP/1.1" 200 106
+"GET /be2cb8ca-93c5-40c1-8ba2-f4df3345b928/ HTTP/1.1" 200 106
+"GET /0507e9a0-860d-4e60-90cb-c3649c0bdf05/ HTTP/1.1" 200 106
+"GET /25be9728-2e84-474f-8201-903c130fa2b5/ HTTP/1.1" 200 106
+"GET /bdcacdd4-20e4-403f-8936-43451323b8f1/ HTTP/1.1" 200 106
+"GET /6635b287-acbc-4741-b017-77e83f7a49c7/ HTTP/1.1" 200 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+"POST / HTTP/1.1" 201 106
+Watching for file changes with StatReloader
+Unauthorized: /
+"GET / HTTP/1.1" 401 183
+Unauthorized: /
+"GET / HTTP/1.1" 401 183
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/requesters/authrequester.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /
+"GET / HTTP/1.1" 401 183
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/requesters/authrequester.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /
+"GET / HTTP/1.1" 401 183
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3211
+Forbidden: /
+"GET / HTTP/1.1" 403 58
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
+Watching for file changes with StatReloader

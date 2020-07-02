@@ -33,6 +33,7 @@ class IsSuperuser(BaseAuthPermission):
 class IsAuthenticated(BaseAuthPermission):
     def has_permission(self, request, view):
         token = self._get_token_from_request(request)
+        print()
         if token is None:
             return False
         return AuthRequester().is_token_valid(token)[1]
