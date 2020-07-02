@@ -229,3 +229,37 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 /Users/malenkijkotik/Desktop/progs/rsoi-online-store/online-store-billing/billing_app/views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /d9312210-195c-4e0d-9bc2-b880defcf19e/ HTTP/1.1" 200 106
+"GET /558d0e6f-7b9a-4280-b573-bc1728c36363/ HTTP/1.1" 200 106
+"GET /b524410f-8f19-4912-ada9-f722d24dd477/ HTTP/1.1" 200 106
+"GET /8193bf63-16f4-4898-a004-1168b9efe07b/ HTTP/1.1" 200 106
+"GET /b5df6225-ca20-4a72-8522-9148d47b31e4/ HTTP/1.1" 200 106
+"GET /fcdcc660-bd42-4754-ad5d-5ab648057ab1/ HTTP/1.1" 200 106
+"GET /264e431b-00a7-4bbb-ba99-658356d89d33/ HTTP/1.1" 200 106
+"GET /56ddc4cc-4220-4d85-959c-f0f0cabb9030/ HTTP/1.1" 200 106
+"GET /3a4ac26a-553f-4c8e-aba6-88231b7a94b1/ HTTP/1.1" 200 106
+Not Found: /ef926fa2-8edd-444c-86d7-654da44393a7/
+"GET /ef926fa2-8edd-444c-86d7-654da44393a7/ HTTP/1.1" 404 0
+Not Found: /846c5fb7-ccaf-4721-92f0-4fe4b848b154/
+"GET /846c5fb7-ccaf-4721-92f0-4fe4b848b154/ HTTP/1.1" 404 0
+Not Found: /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/
+"GET /29ab7d9c-c5a8-4b8c-82d7-ae7cc02cc778/ HTTP/1.1" 404 0
+"GET /6268f15a-9de8-47ca-88f1-6e503ce99921/ HTTP/1.1" 200 106
+"GET /7dc99b1d-6257-479c-9bdf-5e323d0749f4/ HTTP/1.1" 200 106
+"GET /ff03cc35-afb8-4aac-83e2-b5585d5c4ff2/ HTTP/1.1" 200 106
+"GET /5893cf53-b8b2-4d58-bed7-d8eefce7f02e/ HTTP/1.1" 200 106
+"GET /6eed8c9d-879e-4fc2-9f2c-985e70ee9b0a/ HTTP/1.1" 200 106
+"GET /9010c3e8-77fa-4bab-a327-4960023c3bf4/ HTTP/1.1" 200 106
+"GET /6c5bbb57-8d6b-4ad0-95de-635ce80797d0/ HTTP/1.1" 200 106
+"GET /7e014e9a-b461-4e97-a6dc-69ee1b2991b9/ HTTP/1.1" 200 106
+"GET /be2cb8ca-93c5-40c1-8ba2-f4df3345b928/ HTTP/1.1" 200 106
+"GET /0507e9a0-860d-4e60-90cb-c3649c0bdf05/ HTTP/1.1" 200 106
+"GET /25be9728-2e84-474f-8201-903c130fa2b5/ HTTP/1.1" 200 106
+"GET /bdcacdd4-20e4-403f-8936-43451323b8f1/ HTTP/1.1" 200 106
+"GET /6635b287-acbc-4741-b017-77e83f7a49c7/ HTTP/1.1" 200 106
+"GET /ef5b2a52-8586-49d5-a392-2d859e9ba2f1/ HTTP/1.1" 200 106
+"GET /b9492777-8bdc-4962-b1a2-aeb13ff7402a/ HTTP/1.1" 200 106
+"GET /f842e75d-5211-4647-88a2-44b940cd18d6/ HTTP/1.1" 200 106
+"GET /e2de989f-f238-43d2-9b0f-1bcca845ef8a/ HTTP/1.1" 200 106
+"POST / HTTP/1.1" 201 106
